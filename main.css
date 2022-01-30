@@ -1,0 +1,68 @@
+body{
+ margin: 0;
+}
+
+.container{
+ height: 100vh;
+ margin: 0px;
+
+ background: url(./Assets/background.jpg);
+ background-position: center;
+ 
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ flex-flow: column;}
+
+.window{
+ width: fit-content;
+ height: 48%;
+
+ background-color: rgb(14, 118, 126);
+
+ display: flex;
+ flex-flow:row;
+
+ align-items:center;
+ justify-content:space-evenly;
+
+ border-radius: 40px;
+ border: solid rgb(18, 110, 95) 1px;
+}
+
+button{
+ width: fit-content;
+ width: 10%;
+ height: 10%;
+ border-radius: 15px;
+ border: solid rgb(18, 110, 95) 1px;
+
+ background: rgb(16,96,85);
+ background: linear-gradient(0deg, rgb(29, 124, 112) 16%, rgba(34,193,195,1) 68%);
+ 
+ color: white;
+ font-weight: bold;
+}
+
+button:active{
+ background: rgb(16,96,85);
+ background: linear-gradient(0deg, rgba(16,96,85,1) 16%, rgba(34,193,195,1) 68%);
+
+}
+.player{
+ width: 25%;
+ border-radius: 50%;
+ border: solid rgb(0, 163, 136) 3px;
+
+ box-shadow: 0 0 20px rgb(241, 100, 64);
+
+}
+
+img{
+ width: 15%;
+}
+
+div{
+ box-shadow: 0px 0px 50px rgb(241, 100, 64);
+
+}
