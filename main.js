@@ -1,4 +1,4 @@
-var players = ['Trivago.webp', 'Ayslan.webp', 'Predador.webp', 'Jeff.webp']
+var players = ['/Assets/Trivago.webp', '/Assets/Ayslan.webp', '/Assets/Predador.webp', '/Assets/Jeff.webp']
 var result1, result2
 var player1 = document.getElementById('player1')
 var player2 = document.getElementById('player2')

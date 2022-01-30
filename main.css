@@ -6,7 +6,7 @@ body{
  height: 100vh;
  margin: 0px;
 
- background: url(background.jpg);
+ background: url(./Assets/background.jpg);
  background-position: center;
  
  display: flex;
