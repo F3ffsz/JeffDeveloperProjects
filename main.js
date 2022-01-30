@@ -1,4 +1,4 @@
-var players = ['/Assets/Trivago.webp', '/Assets/Ayslan.webp', '/Assets/Predador.webp', '/Assets/Jeff.webp']
+var players = ['Trivago.webp', 'Ayslan.webp', 'Predador.webp', 'Jeff.webp']
 var result1, result2
 var player1 = document.getElementById('player1')
 var player2 = document.getElementById('player2')
@@ -10,8 +10,6 @@ function sorteia() {
  
     if (result1 == result2) {result2++}
     console.log(result2)
-
-    //resultado.innerText =`A primeira luta será ${players[result1]} e ${players[result2]}`
 
     player1.src = `${players[result1]}`
     player2.src = `${players[result2]}`
