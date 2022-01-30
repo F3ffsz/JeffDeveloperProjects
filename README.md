@@ -1,4 +1,6 @@
 # JeffDeveloperProjects
 Brawl changer
 
-This Proect is one personal Just kidding for me and my friends, to chose why go fight why first one.
+this project is just a joke between me and my friends, to choose who will fight first in brawhalla.
+
+if you want to use it, just download and edit the assets with the images of your intention.
