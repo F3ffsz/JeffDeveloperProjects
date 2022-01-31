@@ -1,4 +1,4 @@
-var players = ['./Assets/Trivago.png', './Assets/Ayslan.png', './Assets/Predador.png', './Assets/Jeff.png']
+var players = ['./Assets/Trivago.png', './Assets/Ayslan.png', './Assets/Predador.png', './Assets/Jeff.png', './Assets/Predador']
 var result1, result2
 var player1 = document.getElementById('player1')
 var player2 = document.getElementById('player2')
